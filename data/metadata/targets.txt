@@ -1,0 +1,5 @@
+targets = [
+    'fad8_chol', 'fad8_ldlc', 'fad8_hdlc', 'fad8_tg', 'fad8_crp', 
+    'fad8_gluc0', 'fad8_gluc30', 'fad8_gluc120', 'fad8_hba1c', 
+    'fad8_ins0', 'fad8_ins30', 'fad8_ins120', 'fad8_glauc'
+]
