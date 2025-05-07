@@ -1,6 +1,7 @@
 data/raw/
 data/processed/
 data/synthetic/
+data/subsets/
 
 notebooks/.ipynb_checkpoints/
 

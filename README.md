@@ -1,6 +1,6 @@
-# FADSDiet Analysis
+# FADSDIET: Analysis
 
-This repository contains the analysis and experiments for the FADSDiet dataset. The focus is on data preprocessing, subset creation, synthetic data generation, and model performance comparison.
+This repository contains the analysis and experiments for the FADSDiet dataset as well as a lot of drafts.
 
 ## Features
 - Exploratory Data Analysis (EDA)
